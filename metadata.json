@@ -1,0 +1,8 @@
+{
+  "name": "Synapse",
+  "description": "A camera-first thinking space that visualizes your thoughts in real-time using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
